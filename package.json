@@ -94,7 +94,7 @@
     "ethereumjs-abi": "^0.6.4",
     "ethereumjs-tx": "^1.3.0",
     "ethereumjs-util": "github:ethereumjs/ethereumjs-util#ac5d0908536b447083ea422b435da27f26615de9",
-    "ethereumjs-wallet": "github:sunakujira1/ethereumjs-wallet#68051d59afc45d8de43602cd4a996d155f8526f2",
+    "ethereumjs-wallet": "https://github.com/Sunakujira1/ethereumjs-wallet.git",
     "etherscan-link": "^1.0.2",
     "ethjs": "^0.2.8",
     "ethjs-contract": "^0.1.9",

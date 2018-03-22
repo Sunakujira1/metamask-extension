@@ -620,7 +620,7 @@ async-eventemitter@^0.2.2:
   dependencies:
     async "^2.4.0"
 
-"async-eventemitter@github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c":
+async-eventemitter@ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c:
   version "0.2.3"
   resolved "https://codeload.github.com/ahultgren/async-eventemitter/tar.gz/fa06e39e56786ba541c180061dbf2c0a5bbf951c"
   dependencies:
@@ -4206,7 +4206,7 @@ ethereumjs-wallet@^0.6.0:
 
 "ethereumjs-wallet@https://github.com/Sunakujira1/ethereumjs-wallet.git":
   version "0.6.0"
-  resolved "https://github.com/Sunakujira1/ethereumjs-wallet.git#68051d59afc45d8de43602cd4a996d155f8526f2"
+  resolved "https://github.com/Sunakujira1/ethereumjs-wallet.git#3568119ba1672a6226e20ce47f33ba4909ba6cd7"
   dependencies:
     aes-js "^3.1.0"
     bs58check "^2.1.1"

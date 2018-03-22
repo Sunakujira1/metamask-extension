@@ -4204,9 +4204,9 @@ ethereumjs-wallet@^0.6.0:
     utf8 "^2.1.1"
     uuid "^2.0.1"
 
-"ethereumjs-wallet@https://github.com/Sunakujira1/ethereumjs-wallet.git":
+"ethereumjs-wallet@github:Sunakujira1/ethereumjs-wallet#68051d59afc45d8de43602cd4a996d155f8526f2":
   version "0.6.0"
-  resolved "https://github.com/Sunakujira1/ethereumjs-wallet.git#3568119ba1672a6226e20ce47f33ba4909ba6cd7"
+  resolved "https://codeload.github.com/Sunakujira1/ethereumjs-wallet/tar.gz/68051d59afc45d8de43602cd4a996d155f8526f2"
   dependencies:
     aes-js "^3.1.0"
     bs58check "^2.1.1"
